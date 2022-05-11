@@ -1,8 +1,8 @@
 <!-- _navbar.md -->
 
-- Getting started
+- [VisualHSM Documentation](/VisualHSM/)
 
-  - [Quick start](quickstart.md)
+  - [Installation](/VisualHSM/installation.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
